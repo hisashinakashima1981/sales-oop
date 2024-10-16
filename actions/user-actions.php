@@ -1,6 +1,7 @@
 <?php
 
 include "../classes/user.php"; // Userクラスを読み込む
+// this is a sample message for git testing
 
 $user = new User(); // Userクラスのインスタンスを作成
 
