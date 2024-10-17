@@ -2,7 +2,7 @@
 
 include "../classes/user.php"; // Userクラスを読み込む
 // this is a sample message for git testing
-
+// this is a sample hisashi test
 $user = new User(); // Userクラスのインスタンスを作成
 
 if(isset($_POST['register'])) // フォームが送信されたかチェック
